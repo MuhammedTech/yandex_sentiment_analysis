@@ -6,7 +6,7 @@ Yandex customer support sentiment analysis done by analyzing tweets of customers
 Before you begin, ensure you have met the following requirements:
 
 * You have a `Windows/Linux/Mac` machine.
-* You have read `https://github.com/MuhammedTech/article-summarizer/blob/main/README.md`.
+* You have read `https://github.com/MuhammedTech/yandex_sentiment_analysis/blob/main/README.md`.
 
 
 ## Installing and Running
