@@ -17,7 +17,7 @@ Clone the project by opening a terminal and typing the following commands:
 ```
 $ cd $HOME  # or any other development directory you prefer
 $ git clone https://github.com/MuhammedTech/yandex_sentiment_analysis.git
-$ cd 
+$ cd yandex_sentiment_analysis
 ```
 or just download yandex_sentiment_analysis.zip, unzip it, and move it to your development directory.
 
